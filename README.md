@@ -1,6 +1,6 @@
 # Otimização e Meta-Heurísticas 2019
 
-Trabalhos apresentados para a disciplina de Otimização e Meta-Heurísticas para o problema de roteamento de veículos. No caso, foram aplicados os métodos *Particle Swarm Optimization* e *Clustering Search* para solução do *Capacited Vehicle Routing Problem* (CVRP). O primeiro trabalho consistiu na aplicação dos dois modelos. Enquanto isso, o segundo é definido pela combinação dos dois métodos para melhoria dos resultados observados.
+Trabalhos apresentados na disciplina de Otimização e Meta-Heurísticas para o problema de roteamento de veículos. No caso, foram aplicados os métodos *Particle Swarm Optimization* e *Clustering Search* para solução do *Capacited Vehicle Routing Problem* (CVRP). O [primeiro trabalho](trabalhos/) consistiu na aplicação dos dois modelos. Enquanto isso, o [segundo](trabalhos/trabalho-2-ocmh.pdf) é caracterizado pela combinação dos dois métodos para melhoria dos resultados observados.
 
 ## *Clustering Search* (\*CS)
 
